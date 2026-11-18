@@ -1,0 +1,2 @@
+,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,roc_auc_macro,cohen_kappa,mcc,accuracy_95ci,f1_macro_95ci
+EfficientNet-B3,0.7371,0.7995,0.8141,0.7995,0.763,0.7366,0.9283,0.6564,0.6962,"[0.7249, 0.7493]","[0.7530, 0.7727]"

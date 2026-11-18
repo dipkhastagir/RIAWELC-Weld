@@ -1,0 +1,2 @@
+,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,roc_auc_macro,cohen_kappa,mcc,accuracy_95ci,f1_macro_95ci
+ConvNeXt-Tiny,0.9939,0.9939,0.9932,0.9939,0.9935,0.9939,0.9995,0.9917,0.9917,"[0.9906, 0.9967]","[0.9901, 0.9966]"

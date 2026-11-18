@@ -1,0 +1,2 @@
+,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,roc_auc_macro,cohen_kappa,mcc,accuracy_95ci,f1_macro_95ci
+ResNet50,0.7324,0.8032,0.8124,0.8032,0.7573,0.7252,0.9318,0.6519,0.6968,"[0.7204, 0.7441]","[0.7475, 0.7667]"

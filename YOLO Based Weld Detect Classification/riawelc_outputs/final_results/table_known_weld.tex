@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{Test-set performance — Known welds (official split, de-duplicated)}
+\label{tab:known_weld}
+\begin{tabular}{lcccccc}
+\hline
+Model & Accuracy & Precision (macro) & Recall (macro) & F1 (macro) & ROC-AUC (macro) & MCC \\
+\hline
+ResNet50 & 0.9926 & 0.9918 & 0.9926 & 0.9922 & 0.9999 & 0.9901 \\
+EfficientNet-B3 & 0.9951 & 0.9945 & 0.9951 & 0.9948 & 1.0000 & 0.9934 \\
+ConvNeXt-Tiny & 0.9939 & 0.9932 & 0.9939 & 0.9935 & 0.9995 & 0.9917 \\
+Ensemble & 0.9947 & 0.9940 & 0.9948 & 0.9944 & 1.0000 & 0.9928 \\
+\hline
+\end{tabular}
+\end{table}

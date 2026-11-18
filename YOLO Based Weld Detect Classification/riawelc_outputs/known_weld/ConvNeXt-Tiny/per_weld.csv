@@ -1,0 +1,67 @@
+weld,class_name,accuracy,n,errors
+RRT-88R,Crack,0.9726027397260274,73,2
+RRT-22R,Crack,0.9310344827586207,29,2
+RRT-88R,No Defect,0.9166666666666666,12,1
+RRT-42R,Porosity,0.972972972972973,37,1
+RRT-24R,Lack of Penetration,0.9666666666666667,30,1
+RRT-102R,Porosity,0.9230769230769231,13,1
+RRT-26R,Porosity,0.9827586206896551,58,1
+RRT-27R,Lack of Penetration,0.9841269841269841,63,1
+RRT-28R,Lack of Penetration,0.987012987012987,77,1
+RRT-13R,Crack,0.9941176470588236,170,1
+RRT-29R,Porosity,0.9166666666666666,12,1
+RRT-88R,Porosity,0.9523809523809523,21,1
+RRT-98R,Porosity,0.9545454545454546,22,1
+RRT-09R,No Defect,1.0,1,0
+RRT-101R,Crack,1.0,43,0
+RRT-107R,Porosity,1.0,34,0
+RRT-107R,No Defect,1.0,20,0
+RRT-102R,Crack,1.0,38,0
+RRT-20R,Lack of Penetration,1.0,96,0
+RRT-15R,No Defect,1.0,65,0
+RRT-13R,Porosity,1.0,7,0
+RRT-13R,No Defect,1.0,17,0
+RRT-12R,Porosity,1.0,93,0
+RRT-23R,Crack,1.0,53,0
+RRT-22R,Porosity,1.0,34,0
+RRT-20R,No Defect,1.0,6,0
+RRT-26R,Lack of Penetration,1.0,87,0
+RRT-24R,No Defect,1.0,3,0
+RRT-12R,No Defect,1.0,105,0
+RRT-101R,No Defect,1.0,8,0
+RRT-105R,Crack,1.0,29,0
+RRT-105R,No Defect,1.0,2,0
+RRT-107R,Lack of Penetration,1.0,2,0
+RRT-102R,No Defect,1.0,31,0
+RRT-29R,Lack of Penetration,1.0,7,0
+RRT-28R,Porosity,1.0,37,0
+RRT-27R,Porosity,1.0,12,0
+RRT-27R,No Defect,1.0,12,0
+RRT-26R,No Defect,1.0,42,0
+RRT-23R,No Defect,1.0,1,0
+RRT-30R,Porosity,1.0,17,0
+RRT-29R,No Defect,1.0,13,0
+RRT-39R,No Defect,1.0,64,0
+RRT-31R,Porosity,1.0,47,0
+RRT-39R,Porosity,1.0,123,0
+RRT-40R,Crack,1.0,23,0
+RRT-40R,Porosity,1.0,27,0
+RRT-31R,No Defect,1.0,27,0
+RRT-30R,Crack,1.0,49,0
+RRT-30R,No Defect,1.0,14,0
+RRT-42R,Lack of Penetration,1.0,28,0
+RRT-42R,No Defect,1.0,26,0
+RRT-40R,No Defect,1.0,72,0
+RRT-90R,Lack of Penetration,1.0,25,0
+RRT-90R,Porosity,1.0,9,0
+RRT-94R,Crack,1.0,63,0
+RRT-94R,No Defect,1.0,35,0
+RRT-90R,No Defect,1.0,8,0
+RRT-94R,Porosity,1.0,9,0
+RRT-97R,Crack,1.0,18,0
+RRT-99R,Crack,1.0,170,0
+RRT-99R,No Defect,1.0,16,0
+RRT-99R,Porosity,1.0,5,0
+bam5,Crack,1.0,7,0
+bam5,Lack of Penetration,1.0,31,0
+bam5,Porosity,1.0,15,0

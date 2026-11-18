@@ -1,0 +1,69 @@
+{
+  "protocol": "known_weld",
+  "class_order": [
+    "Difetto4",
+    "Difetto1",
+    "Difetto2",
+    "NoDifetto"
+  ],
+  "display_names": {
+    "Difetto4": "Lack of Penetration",
+    "Difetto1": "Crack",
+    "Difetto2": "Porosity",
+    "NoDifetto": "No Defect"
+  },
+  "short_names": {
+    "Difetto4": "LP",
+    "Difetto1": "CR",
+    "Difetto2": "PO",
+    "NoDifetto": "ND"
+  },
+  "n_files": 244102,
+  "n_unique": 21964,
+  "split_counts": {
+    "train": 13420,
+    "val": 6101,
+    "test": 2443
+  },
+  "test_welds": [
+    "RRT-09R",
+    "RRT-101R",
+    "RRT-102R",
+    "RRT-105R",
+    "RRT-107R",
+    "RRT-12R",
+    "RRT-13R",
+    "RRT-15R",
+    "RRT-20R",
+    "RRT-22R",
+    "RRT-23R",
+    "RRT-24R",
+    "RRT-26R",
+    "RRT-27R",
+    "RRT-28R",
+    "RRT-29R",
+    "RRT-30R",
+    "RRT-31R",
+    "RRT-39R",
+    "RRT-40R",
+    "RRT-42R",
+    "RRT-88R",
+    "RRT-90R",
+    "RRT-94R",
+    "RRT-97R",
+    "RRT-98R",
+    "RRT-99R",
+    "bam5"
+  ],
+  "annotation": "automatic weak boxes",
+  "yolo_model": "yolov8n.pt",
+  "yolo_val_metrics": {
+    "precision": 0.8050483393510208,
+    "recall": 0.7319826338639652,
+    "mAP50": 0.8397870133898794,
+    "mAP50-95": 0.6262129621167002
+  },
+  "crop_pad": 0.25,
+  "crop_min": 160,
+  "seed": 42
+}

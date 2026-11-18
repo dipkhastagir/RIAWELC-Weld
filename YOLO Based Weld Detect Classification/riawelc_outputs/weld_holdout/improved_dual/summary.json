@@ -1,0 +1,21 @@
+{
+  "protocol": "weld_holdout",
+  "input_mode": "dual",
+  "weld_balanced": true,
+  "mixup_alpha": 0.2,
+  "epochs": 12,
+  "batch_size": 32,
+  "adabn": true,
+  "selected_variant": "Ensemble(ResNet50 + ConvNeXt-Tiny)",
+  "selected_test_accuracy": 0.8402392140111064,
+  "accuracy_95ci": [
+    0.8302007689021785,
+    0.8500694147800085
+  ],
+  "baselines": {
+    "Baseline ResNet50 (notebook 01)": 0.7323793250747543,
+    "Baseline EfficientNet-B3 (notebook 02)": 0.7370781717214866,
+    "Baseline ConvNeXt-Tiny (notebook 03)": 0.7616403246475865
+  },
+  "note": "AdaBN variants re-estimate BatchNorm statistics on unlabeled images of the evaluated split; no labels are used."
+}

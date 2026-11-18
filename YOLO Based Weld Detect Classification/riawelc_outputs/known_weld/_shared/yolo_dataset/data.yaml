@@ -1,0 +1,5 @@
+path: C:/Users/dipkh/Downloads/RIAWLC/3/riawelc_outputs/known_weld/_shared/yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: defect

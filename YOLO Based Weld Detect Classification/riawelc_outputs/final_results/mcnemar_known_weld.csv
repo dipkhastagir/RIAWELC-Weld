@@ -1,0 +1,7 @@
+Model A,Model B,A right / B wrong,A wrong / B right,p-value,Significant (α=0.05)
+ResNet50,EfficientNet-B3,1,7,0.07031,False
+ResNet50,ConvNeXt-Tiny,4,7,0.54883,False
+ResNet50,Ensemble,2,7,0.17969,False
+EfficientNet-B3,ConvNeXt-Tiny,4,1,0.375,False
+EfficientNet-B3,Ensemble,2,1,1.0,False
+ConvNeXt-Tiny,Ensemble,0,2,0.5,False

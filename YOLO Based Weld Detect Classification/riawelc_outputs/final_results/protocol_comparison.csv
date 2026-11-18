@@ -1,0 +1,5 @@
+,Unseen welds (weld-disjoint),"Known welds (official split, de-duplicated)",Generalisation gap
+ResNet50,0.7324,0.9926,0.2602
+EfficientNet-B3,0.7371,0.9951,0.258
+ConvNeXt-Tiny,0.7616,0.9939,0.2323
+Ensemble,0.7452,0.9947,0.2495

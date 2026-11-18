@@ -1,0 +1,13 @@
+riawelc_outputs/**/roi_crops/
+riawelc_outputs/**/yolo_dataset/
+riawelc_outputs/**/yolo_run/
+riawelc_outputs/**/yolo_val/
+riawelc_outputs/md5_cache.csv
+runs/
+*.pt
+*.npy
+*.npz
+RIAWELC-main*/
+Dataset_partitioned/
+__pycache__/
+.ipynb_checkpoints/

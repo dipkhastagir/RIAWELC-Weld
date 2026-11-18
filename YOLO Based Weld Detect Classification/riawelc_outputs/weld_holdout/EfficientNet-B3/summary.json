@@ -1,0 +1,32 @@
+{
+  "model": "EfficientNet-B3",
+  "timm_name": "efficientnet_b3.ra2_in1k",
+  "protocol": "weld_holdout",
+  "annotation": "automatic weak boxes",
+  "n_train": 14372,
+  "n_val": 2910,
+  "n_test": 4682,
+  "test_welds": [
+    "RRT-13R",
+    "RRT-26R",
+    "RRT-40R",
+    "RRT-98R"
+  ],
+  "img_size": 224,
+  "epochs_run": 15,
+  "best_epoch": 8,
+  "intensity_norm": true,
+  "strong_aug": true,
+  "tta": true,
+  "test_metrics": {
+    "accuracy": 0.73708,
+    "balanced_accuracy": 0.79954,
+    "precision_macro": 0.81411,
+    "recall_macro": 0.79954,
+    "f1_macro": 0.76298,
+    "f1_weighted": 0.73657,
+    "roc_auc_macro": 0.92833,
+    "cohen_kappa": 0.65643,
+    "mcc": 0.69623
+  }
+}
